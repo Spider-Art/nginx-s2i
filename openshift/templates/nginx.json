@@ -92,7 +92,7 @@
             "from": {
               "kind": "ImageStreamTag",
               "namespace": "${NAMESPACE}",
-              "name": "nginx:latest"
+              "name": "nginx:1.18"
             }
           }
         },
